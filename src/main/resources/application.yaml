@@ -1,0 +1,10 @@
+zeebe.client.cloud:
+    region: bru-2
+    clusterId: xxx
+    clientId: xxx
+    clientSecret: xxx
+
+de.flapdoodle.mongodb.embedded.version: 5.0.5
+
+variable.interceptor:
+    enabled: true
